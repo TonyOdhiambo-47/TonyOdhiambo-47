@@ -75,24 +75,6 @@ TensorFlow.js  ·  Stable-Baselines3
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonyOdhiambo-47&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyOdhiambo-47&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8)
-
-</div>
-
----
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=TonyOdhiambo-47&theme=dark&hide_border=true&background=0d1117)
-
-</div>
-
----
-
-<div align="center">
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TonyOdhiambo-47&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)
 
 </div>
