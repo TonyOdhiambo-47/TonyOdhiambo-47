@@ -8,12 +8,6 @@
 
 ---
 
-**Training RL agents that learn chemistry from scratch**
-
-*No prior data. Just physics-based environments and reward signals.*
-
----
-
 </div>
 
 <table>
