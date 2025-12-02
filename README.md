@@ -17,7 +17,7 @@
 ### Featured Projects
 
 **Titration-RL**  
-Proximal-Policy Optimization agent learns automated and optimized titration using only indicator color feedback, no prior training data.
+Proximal-Policy Optimization agent learns automated and optimized acid-base titration using only indicator color feedback, no prior training data.
 
 **Reaction-Yield-ML**  
 ML pipeline for predicting yields from molecular fingerprints using Buchwald-Hartwig dataset.
