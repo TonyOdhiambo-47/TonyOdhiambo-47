@@ -12,7 +12,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### Featured Projects
 
@@ -24,17 +24,6 @@ ML pipeline for predicting yields from molecular fingerprints
 
 **Moveziki**  
 Gesture-controlled music with real-time ML inference
-
-</td>
-<td width="50%" valign="top">
-
-### Tech Stack
-
-```
-Python  ·  PPO  ·  Gymnasium
-RDKit  ·  React  ·  TypeScript
-TensorFlow.js  ·  Stable-Baselines3
-```
 
 </td>
 </tr>
