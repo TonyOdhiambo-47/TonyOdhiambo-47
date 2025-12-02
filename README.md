@@ -44,8 +44,6 @@ TensorFlow.js  ·  Stable-Baselines3
 
 <div align="center">
 
-**Currently:** Multi-step lab automation agents · GNNs for molecular properties · RL environments
-
 [Website](https://tonyodhiambo.com) · [LinkedIn](https://linkedin.com/in/tonyodhiambo) · [Email](mailto:tony_odh@mit.edu)
 
 </div>
