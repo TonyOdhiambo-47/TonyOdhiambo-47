@@ -48,7 +48,6 @@ Gesture-controlled music with real-time ML inference. Play instruments, conduct 
 ![PPO](https://img.shields.io/badge/RL-PPO-blueviolet)
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-0081a5?logo=gymnasium&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 
 </div>
 
