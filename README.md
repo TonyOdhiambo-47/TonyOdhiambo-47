@@ -2,7 +2,7 @@
 
 # Tony Odhiambo
 
-**Computational Chemistry · Reinforcement Learning · ML for Science**
+**Computational Chemistry**
 
 `MIT '28` · `CS, Economics & Data Science` · `Chemistry Minor` · `Rise Fellow`
 
