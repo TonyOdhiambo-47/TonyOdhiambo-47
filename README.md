@@ -37,6 +37,7 @@ Gesture-controlled music with real-time ML inference. Play instruments, conduct 
 
 </div>
 
+
 ---
 
 <div align="center">
@@ -58,3 +59,11 @@ Gesture-controlled music with real-time ML inference. Play instruments, conduct 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TonyOdhiambo-47&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+</picture>
+
+
