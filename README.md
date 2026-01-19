@@ -22,6 +22,9 @@ Proximal-Policy Optimization agent learns automated and optimized acid-base titr
 **Reaction-Yield-ML**  
 ML pipeline for predicting yields from molecular fingerprints using Buchwald-Hartwig dataset.
 
+[**Reaction-Diffusion-Studio**](https://reaction-diffusion-private.vercel.app/)  
+Interactive reaction–diffusion simulator for generating Turing patterns using the Gray–Scott model.
+
 **Moveziki**  
 Gesture-controlled music with real-time ML inference. Play instruments, conduct music and have DJ effects using only a webcam.
 
