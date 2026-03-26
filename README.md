@@ -4,7 +4,7 @@
 
 **Computational Chemistry + Founder, Mwendo**
 
-`MIT '28` · `CS, Economics & Data Science` · `Chemistry Minor` · `Rise Fellow`
+`MIT '28` · `CS, Economics & Data Science` · `Rise Fellow`
 
 ---
 
