@@ -12,7 +12,7 @@
 
 <img src="https://img.shields.io/badge/MIT_'28-A31F34?style=for-the-badge" />
 <img src="https://img.shields.io/badge/CS,_Econ_&_Data_Science-1a1a2e?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Chemistry-1a1a2e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/KENYAN-1a1a2e?style=for-the-badge" />
 <br/>
 <img src="https://img.shields.io/badge/Rise_Fellow-FFD700?style=for-the-badge&logoColor=000" />
 <img src="https://img.shields.io/badge/Resolution_Fellow-FFD700?style=for-the-badge&logoColor=000" />
