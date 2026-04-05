@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=30&lines=computational+chemistry+%C3%97+machine+learning;founder%2C+mwendo+%7C+education+access+across+africa;reinforcement+learning+for+lab+automation;rise+fellow+%C2%B7+imo+contestant+%C2%B7+math+olympiad+gold" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=30&lines=computational+chemistry+%C3%97+machine+learning;founder%2C+mwendo+%7C+education+access+across+africa;development+economics+%C2%B7+CS+%C2%B7+data+science;reinforcement+learning+for+lab+automation" alt="Typing SVG" /></a>
 
 <br/><br/>
 
@@ -17,7 +17,6 @@
 <img src="https://img.shields.io/badge/Rise_Fellow-FFD700?style=for-the-badge&logoColor=000" />
 <img src="https://img.shields.io/badge/Resolution_Fellow-FFD700?style=for-the-badge&logoColor=000" />
 <img src="https://img.shields.io/badge/Emergent_Ventures-FFD700?style=for-the-badge&logoColor=000" />
-<img src="https://img.shields.io/badge/IMO_Japan-FFD700?style=for-the-badge&logoColor=000" />
 
 </div>
 
@@ -147,7 +146,7 @@ Automated classification of catalysis papers by metal type (Pd, Rh, Co) and reac
 </a>
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,postgres,supabase,docker,vercel,git,github,linux&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,postgres,supabase,docker,vercel,git,nodejs,linux&theme=dark&perline=10" />
 </a>
 
 </div>
@@ -155,19 +154,6 @@ Automated classification of catalysis papers by metal type (Pd, Rh, Co) and reac
 ---
 
 <div align="center">
-
-## `> cat stats.md`
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=TonyOdhiambo-47&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41&rank_icon=github" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyOdhiambo-47&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" height="180" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=TonyOdhiambo-47&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=58a6ff" width="500" />
-
-<br/><br/>
 
 <picture>
   <source
@@ -187,5 +173,9 @@ Automated classification of catalysis papers by metal type (Pd, Rh, Co) and reac
 <br/>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TonyOdhiambo-47&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=00ff41&point=ffffff&area=true&area_color=00ff41)
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=TonyOdhiambo-47&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=58a6ff" width="500" />
 
 </div>
