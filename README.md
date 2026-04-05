@@ -152,30 +152,6 @@ Automated classification of catalysis papers by metal type (Pd, Rh, Co) and reac
 
 </div>
 
-<br/>
-
-<div align="center">
-
-## `> git log --oneline achievements`
-
-</div>
-
-<div align="center">
-
-| | Achievement | Context |
-|:---:|:---|:---|
-| <img src="https://img.shields.io/badge/2025-00ff41?style=flat-square&logoColor=white" /> | **Resolution Fellow** | Won the Rise Social Venture Challenge |
-| <img src="https://img.shields.io/badge/2024-00ff41?style=flat-square&logoColor=white" /> | **Rise Fellow** | Schmidt Futures scholarship, Oxford |
-| <img src="https://img.shields.io/badge/2024-00ff41?style=flat-square&logoColor=white" /> | **Emergent Ventures Grantee** | CS & Math education in Kenya |
-| <img src="https://img.shields.io/badge/2023-00ff41?style=flat-square&logoColor=white" /> | **1st Place, Kenya Math Olympiad** | National champion |
-| <img src="https://img.shields.io/badge/2023-00ff41?style=flat-square&logoColor=white" /> | **Silver Medal, PAMO** | Pan African Mathematics Olympiad |
-| <img src="https://img.shields.io/badge/2023-00ff41?style=flat-square&logoColor=white" /> | **Gold Medal, EAMO** | East African Mathematics Olympiad |
-| <img src="https://img.shields.io/badge/2023-00ff41?style=flat-square&logoColor=white" /> | **IMO Contestant** | International Mathematical Olympiad, Japan |
-
-</div>
-
-<br/>
-
 ---
 
 <div align="center">
