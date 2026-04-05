@@ -67,8 +67,7 @@ PPO agent masters automated acid-base titration using only indicator color feedb
 <td width="50%" valign="top">
 
 <h3 align="center"><a href="https://github.com/TonyOdhiambo-47/afro-unis"><img src="https://img.shields.io/badge/03-0a0e27?style=flat-square&labelColor=00ff41&color=0a0e27" /> African Universities Explorer</a></h3>
-<p align="center"><strong>Searchable Database of Every African University</strong></p>
-<p align="center"><a href="https://african-universities.onrender.com/">african-universities.onrender.com</a></p>
+<p align="center"><a href="https://african-universities.onrender.com/"><strong>Searchable Database of Every African University</strong></a></p>
 
 Comprehensive, searchable directory of universities across all 54 African countries. AI-powered ingestion pipeline (Claude + BeautifulSoup) discovers, verifies, and enriches university data from Wikidata. Interactive clustered map with Leaflet. Filterable by country, type, and programs.
 
@@ -84,8 +83,7 @@ Comprehensive, searchable directory of universities across all 54 African countr
 <td width="50%" valign="top">
 
 <h3 align="center"><a href="https://github.com/TonyOdhiambo-47/reaction-diffusion"><img src="https://img.shields.io/badge/04-0a0e27?style=flat-square&labelColor=00ff41&color=0a0e27" /> Reaction Diffusion Studio</a></h3>
-<p align="center"><strong>Interactive Turing Pattern Simulator</strong></p>
-<p align="center"><a href="https://reaction-diffusion-private.vercel.app/">reaction-diffusion-private.vercel.app</a></p>
+<p align="center"><a href="https://reaction-diffusion-private.vercel.app/"><strong>Interactive Turing Pattern Simulator</strong></a></p>
 
 Real-time Gray-Scott reaction-diffusion simulator. Explicit Euler solver with 5-point Laplacian stencil on Float32Arrays. Tweak feed/kill rates and diffusion constants to watch emergent biological patterns form live. Multiple color palettes, PNG export, keyboard shortcuts.
 
