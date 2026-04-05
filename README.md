@@ -1,36 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e27,50:00ff41,100:0a0e27&height=220&section=header&text=Tony%20Odhiambo&fontColor=00ff41&fontSize=70&fontAlignY=35&animation=fadeIn" width="100%" />
+<br/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=60&duration=2500&pause=999999&color=00FF41&center=true&vCenter=true&repeat=false&width=750&height=80&lines=TONY+ODHIAMBO" alt="Tony Odhiambo" /></a>
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%E2%9A%97%EF%B8%8F+computational+chemistry+%C3%97+machine+learning;%F0%9F%8C%8D+founder%2C+mwendo+%E2%80%94+education+access+across+africa;%F0%9F%8E%93+MIT+'28+%C2%B7+CS%2C+Econ+%26+Data+Science+%C2%B7+Chemistry;%F0%9F%A7%AA+reinforcement+learning+for+lab+automation;%F0%9F%8F%86+rise+fellow+%C2%B7+imo+contestant+%C2%B7+math+olympiad+gold" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=30&lines=computational+chemistry+%C3%97+machine+learning;founder%2C+mwendo+%7C+education+access+across+africa;reinforcement+learning+for+lab+automation;rise+fellow+%C2%B7+imo+contestant+%C2%B7+math+olympiad+gold" alt="Typing SVG" /></a>
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/MIT_'28-A31F34?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CS,_Econ_&_Data_Science-1a1a2e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Chemistry-1a1a2e?style=for-the-badge" />
 <br/>
-
-<a href="https://tonyodhiambo.com"><img src="https://img.shields.io/badge/tonyodhiambo.com-0a0e27?style=for-the-badge&logo=safari&logoColor=00ff41"/></a>
-<a href="https://linkedin.com/in/tonyodhiambo"><img src="https://img.shields.io/badge/linkedin-0a0e27?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
-<a href="mailto:tony_odh@mit.edu"><img src="https://img.shields.io/badge/tony__odh@mit.edu-0a0e27?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=TonyOdhiambo-47&style=for-the-badge&color=0a0e27&label=PROFILE+VIEWS&labelColor=0a0e27" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   MIT '28  ·  CS, Economics & Data Science  ·  Chemistry Minor       ║
-║   Rise Fellow  ·  Resolution Fellow  ·  Emergent Ventures Grantee    ║
-║   IMO Contestant (Japan)  ·  Kenya Math Olympiad Champion            ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+<img src="https://img.shields.io/badge/Rise_Fellow-FFD700?style=for-the-badge&logoColor=000" />
+<img src="https://img.shields.io/badge/Resolution_Fellow-FFD700?style=for-the-badge&logoColor=000" />
+<img src="https://img.shields.io/badge/Emergent_Ventures-FFD700?style=for-the-badge&logoColor=000" />
+<img src="https://img.shields.io/badge/IMO_Japan-FFD700?style=for-the-badge&logoColor=000" />
 
 </div>
 
@@ -65,7 +52,7 @@ Rotate 3D molecules in real-time by tilting your phone. IMU sensor data streams 
 <h3 align="center"><img src="https://img.shields.io/badge/02-0a0e27?style=flat-square&labelColor=00ff41&color=0a0e27" /> Titration-RL</h3>
 <p align="center"><strong>RL Agent Learns Acid-Base Titration</strong></p>
 
-PPO agent masters automated acid-base titration using only indicator color feedback — zero prior training data. Physics-accurate Henderson-Hasselbalch environment with partial observability. 10M timesteps, 16 parallel envs, React dashboard with real-time viz.
+PPO agent masters automated acid-base titration using only indicator color feedback, zero prior training data. Physics-accurate Henderson-Hasselbalch environment with partial observability. 10M timesteps, 16 parallel envs, React dashboard with real-time viz.
 
 <p align="center">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
@@ -163,27 +150,6 @@ Automated classification of catalysis papers by metal type (Pd, Rh, Co) and reac
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,postgres,supabase,docker,vercel,git,github,linux&theme=dark&perline=10" />
 </a>
 
-<br/><br/>
-
-<details>
-<summary><b>full stack breakdown</b></summary>
-<br/>
-
-```yaml
-Languages:        Python  ·  TypeScript  ·  JavaScript  ·  C++  ·  SQL
-ML / AI:          PyTorch  ·  TensorFlow.js  ·  Gymnasium  ·  PPO  ·  MediaPipe
-                  ChemBERT  ·  UMAP  ·  HDBSCAN  ·  scikit-learn  ·  RDKit  ·  rxnfp
-Chemistry:        Molecular Visualization  ·  Reaction-Diffusion  ·  Titration Sim
-                  Catalysis NLP  ·  Reaction Yield Prediction  ·  Henderson-Hasselbalch
-Web:              React  ·  Next.js  ·  Vite  ·  Tailwind CSS  ·  Framer Motion
-                  Three.js  ·  WebGL  ·  WebSockets  ·  Leaflet  ·  Radix UI  ·  Tone.js
-Data:             PostgreSQL  ·  Supabase  ·  Pandas  ·  NumPy  ·  Plotly  ·  Recharts
-Infra:            Vercel  ·  Render  ·  Docker  ·  Gunicorn  ·  GitHub Actions
-APIs:             Claude API  ·  PubChem  ·  CrossRef  ·  Wikidata  ·  Resend  ·  Brave Search
-```
-
-</details>
-
 </div>
 
 <br/>
@@ -201,9 +167,9 @@ APIs:             Claude API  ·  PubChem  ·  CrossRef  ·  Wikidata  ·  Resen
 | <img src="https://img.shields.io/badge/2025-00ff41?style=flat-square&logoColor=white" /> | **Resolution Fellow** | Won the Rise Social Venture Challenge |
 | <img src="https://img.shields.io/badge/2024-00ff41?style=flat-square&logoColor=white" /> | **Rise Fellow** | Schmidt Futures scholarship, Oxford |
 | <img src="https://img.shields.io/badge/2024-00ff41?style=flat-square&logoColor=white" /> | **Emergent Ventures Grantee** | CS & Math education in Kenya |
-| <img src="https://img.shields.io/badge/2023-00ff41?style=flat-square&logoColor=white" /> | **1st Place — Kenya Math Olympiad** | National champion |
-| <img src="https://img.shields.io/badge/2023-00ff41?style=flat-square&logoColor=white" /> | **Silver Medal — PAMO** | Pan African Mathematics Olympiad |
-| <img src="https://img.shields.io/badge/2023-00ff41?style=flat-square&logoColor=white" /> | **Gold Medal — EAMO** | East African Mathematics Olympiad |
+| <img src="https://img.shields.io/badge/2023-00ff41?style=flat-square&logoColor=white" /> | **1st Place, Kenya Math Olympiad** | National champion |
+| <img src="https://img.shields.io/badge/2023-00ff41?style=flat-square&logoColor=white" /> | **Silver Medal, PAMO** | Pan African Mathematics Olympiad |
+| <img src="https://img.shields.io/badge/2023-00ff41?style=flat-square&logoColor=white" /> | **Gold Medal, EAMO** | East African Mathematics Olympiad |
 | <img src="https://img.shields.io/badge/2023-00ff41?style=flat-square&logoColor=white" /> | **IMO Contestant** | International Mathematical Olympiad, Japan |
 
 </div>
@@ -247,7 +213,3 @@ APIs:             Claude API  ·  PubChem  ·  CrossRef  ·  Wikidata  ·  Resen
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TonyOdhiambo-47&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=00ff41&point=ffffff&area=true&area_color=00ff41)
 
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:00ff41,100:0a0e27&height=120&section=footer" width="100%" />
