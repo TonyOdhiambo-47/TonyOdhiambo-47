@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=30&lines=computational+chemistry+%C3%97+machine+learning;founder%2C+mwendo+%7C+education+navigation+infrastructure+for+africa;development+economics+%C2%B7+CS+%C2%B7+data+science;reinforcement+learning+for+lab+automation" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=30&lines=computational+chemistry+%C3%97+machine+learning;founder,+mwendo+%7C+education+navigation+infra+for+africa;development+economics+%C2%B7+CS+%C2%B7+data+science;reinforcement+learning+for+lab+automation" alt="Typing SVG" /></a>
 
 <br/><br/>
 
