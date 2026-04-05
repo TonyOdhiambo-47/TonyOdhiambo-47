@@ -32,7 +32,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center"><img src="https://img.shields.io/badge/01-0a0e27?style=flat-square&labelColor=00ff41&color=0a0e27" /> CHEMAXIS</h3>
+<h3 align="center"><img src="https://img.shields.io/badge/01-0a0e27?style=flat-square&labelColor=00ff41&color=0a0e27" /> ChemAxis</h3>
 <p align="center"><strong>Phone-Controlled Molecular Visualization</strong></p>
 
 Rotate 3D molecules in real-time by tilting your phone. IMU sensor data streams over WebSockets to a desktop renderer built with Three.js, WebGL, and PyVista. PubChem API integration loads any molecule by name. Functional group detection via RDKit SMARTS patterns.
