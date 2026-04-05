@@ -146,7 +146,7 @@ Automated classification of catalysis papers by metal type (Pd, Rh, Co) and reac
 </a>
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,postgres,supabase,docker,vercel,git,nodejs,linux&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,postgres,supabase,c,vercel,git,nodejs,linux&theme=dark&perline=10" />
 </a>
 
 </div>
