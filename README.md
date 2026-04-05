@@ -48,7 +48,7 @@ Rotate 3D molecules in real-time by tilting your phone. IMU sensor data streams 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center"><img src="https://img.shields.io/badge/02-0a0e27?style=flat-square&labelColor=00ff41&color=0a0e27" /> Titration-RL</h3>
+<h3 align="center"><a href="https://github.com/TonyOdhiambo-47/chem-rl-indicator"><img src="https://img.shields.io/badge/02-0a0e27?style=flat-square&labelColor=00ff41&color=0a0e27" /> Titration-RL</a></h3>
 <p align="center"><strong>RL Agent Learns Acid-Base Titration</strong></p>
 
 PPO agent masters automated acid-base titration using only indicator color feedback, zero prior training data. Physics-accurate Henderson-Hasselbalch environment with partial observability. 10M timesteps, 16 parallel envs, React dashboard with real-time viz.
@@ -66,8 +66,9 @@ PPO agent masters automated acid-base titration using only indicator color feedb
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center"><a href="https://african-universities.onrender.com/"><img src="https://img.shields.io/badge/03-0a0e27?style=flat-square&labelColor=00ff41&color=0a0e27" /> African Universities Explorer</a></h3>
-<p align="center"><a href="https://african-universities.onrender.com/"><strong>Searchable Database of Every African University</strong></a></p>
+<h3 align="center"><a href="https://github.com/TonyOdhiambo-47/afro-unis"><img src="https://img.shields.io/badge/03-0a0e27?style=flat-square&labelColor=00ff41&color=0a0e27" /> African Universities Explorer</a></h3>
+<p align="center"><strong>Searchable Database of Every African University</strong></p>
+<p align="center"><a href="https://african-universities.onrender.com/">african-universities.onrender.com</a></p>
 
 Comprehensive, searchable directory of universities across all 54 African countries. AI-powered ingestion pipeline (Claude + BeautifulSoup) discovers, verifies, and enriches university data from Wikidata. Interactive clustered map with Leaflet. Filterable by country, type, and programs.
 
@@ -82,8 +83,9 @@ Comprehensive, searchable directory of universities across all 54 African countr
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center"><a href="https://reaction-diffusion-private.vercel.app/"><img src="https://img.shields.io/badge/04-0a0e27?style=flat-square&labelColor=00ff41&color=0a0e27" /> Reaction Diffusion Studio</a></h3>
-<p align="center"><a href="https://reaction-diffusion-private.vercel.app/"><strong>Interactive Turing Pattern Simulator</strong></a></p>
+<h3 align="center"><a href="https://github.com/TonyOdhiambo-47/reaction-diffusion"><img src="https://img.shields.io/badge/04-0a0e27?style=flat-square&labelColor=00ff41&color=0a0e27" /> Reaction Diffusion Studio</a></h3>
+<p align="center"><strong>Interactive Turing Pattern Simulator</strong></p>
+<p align="center"><a href="https://reaction-diffusion-private.vercel.app/">reaction-diffusion-private.vercel.app</a></p>
 
 Real-time Gray-Scott reaction-diffusion simulator. Explicit Euler solver with 5-point Laplacian stencil on Float32Arrays. Tweak feed/kill rates and diffusion constants to watch emergent biological patterns form live. Multiple color palettes, PNG export, keyboard shortcuts.
 
@@ -116,7 +118,7 @@ Play instruments, conduct music, and trigger DJ effects using only a webcam. Rea
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center"><img src="https://img.shields.io/badge/06-0a0e27?style=flat-square&labelColor=00ff41&color=0a0e27" /> Catalysis Paper NLP</h3>
+<h3 align="center"><a href="https://github.com/TonyOdhiambo-47/catalysis-paper-nlp"><img src="https://img.shields.io/badge/06-0a0e27?style=flat-square&labelColor=00ff41&color=0a0e27" /> Catalysis Paper NLP</a></h3>
 <p align="center"><strong>ML Pipeline for Chemistry Literature</strong></p>
 
 Automated classification of catalysis papers by metal type (Pd, Rh, Co) and reaction class. ChemBERT + TF-IDF + keyword rules with weighted voting. UMAP/HDBSCAN clustering for semantic paper grouping. Built for the Kulik Lab meta-learning project at MIT.
