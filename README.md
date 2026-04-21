@@ -100,7 +100,7 @@ Real-time Gray-Scott reaction-diffusion simulator. Explicit Euler solver with 5-
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center"><img src="https://img.shields.io/badge/05-0a0e27?style=flat-square&labelColor=00ff41&color=0a0e27" /> Moveziki</h3>
+<h3 align="center"><a href="https://github.com/TonyOdhiambo-47/moveziki"><img src="https://img.shields.io/badge/05-0a0e27?style=flat-square&labelColor=00ff41&color=0a0e27" /> Moveziki</h3>
 <p align="center"><strong>Gesture-Controlled Music with ML</strong></p>
 
 Play instruments, conduct music, and trigger DJ effects using only a webcam. Real-time hand tracking with MediaPipe feeds into a custom gesture classifier mapped to Tone.js audio synthesis. Performance mode, conductor mode, and DJ mode.
